@@ -39,7 +39,7 @@ const list = async (options) => {
 };
 
 await new Command()
-  .name("tools")
+  .name("toolz")
   .version("0.1.0")
   .description("asdf .tool-versions parser")
   .globalOption("--json", "json output")

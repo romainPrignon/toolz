@@ -1,4 +1,4 @@
-# tools
+# toolz
 
 > asdf .tool-versions parser
 
@@ -16,7 +16,7 @@ curl -sSLO https://deno.land/x/tools@0.1.0/bin/tools
 
 ## Usage
 
-Usage:   tools
+Usage:   toolz
   Version: 0.1.0
 
   Description:
